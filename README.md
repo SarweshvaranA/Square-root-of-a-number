@@ -16,9 +16,11 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-#Program to find the square root for the given number(newton's method) using function.
-#Developed by: SARWESHVARAN A
-#RegisterNumber: 212223230198
+'''
+Program to find the square root for the given number(newton's method) using function.
+Developed by: SARWESHVARAN A
+RegisterNumber: 212223230198
+'''
 def squareroot(num1,iternum):
     num2=float(num1)
     for i in range (iternum):
@@ -29,7 +31,7 @@ iternum=100
 squareroot(num1,iternum)
 ```
 ## Output:
-![Screenshot 2024-04-16 202115](https://github.com/SarweshvaranA/Square-root-of-a-number/assets/146930981/4e7faf7b-9631-4a05-b2de-1f3b239f537b)
+![Square root of matrix](<Newton's method.png>)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
